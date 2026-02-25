@@ -6,7 +6,7 @@ const pillars = [
     title: "Workflow-Level Risk Reduction",
     subtitle: "For title operations and recording workflows",
     description:
-      "Deed Shield provides an independent integrity signal before documents are recorded. This enables earlier detection of anomalies and stronger internal documentation—without making legal determinations or replacing existing review processes.",
+      "Trust Signal provides an independent integrity signal before documents are recorded. This enables earlier detection of anomalies and stronger internal documentation—without making legal determinations or replacing existing review processes.",
   },
   {
     icon: FileCheck,
@@ -20,7 +20,7 @@ const pillars = [
     title: "Operational Continuity",
     subtitle: "Integrates with existing systems",
     description:
-      "Deed Shield is designed as an overlay for title and recording workflows. Integration with SoftPro, ResWare, and major eRecording gateways requires no changes to production software or staff retraining.",
+      "Trust Signal is designed as an overlay for title and recording workflows. Integration with SoftPro, ResWare, and major eRecording gateways requires no changes to production software or staff retraining.",
   },
 ];
 
@@ -58,7 +58,7 @@ export function ValuePillarsSection() {
 
         <div className="mt-16 rounded-lg border border-border bg-muted/50 p-8">
           <h3 className="text-lg font-semibold text-foreground">
-            What Deed Shield Does Not Do
+            What Trust Signal Does Not Do
           </h3>
           <div className="mt-6 grid gap-4 sm:grid-cols-3">
             <div className="flex gap-3">

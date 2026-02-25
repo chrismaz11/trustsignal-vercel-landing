@@ -18,7 +18,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-2xl font-semibold">Get in Touch</h2>
               <p className="mt-2">
-                <strong>Email:</strong> support@deedshield.com<br />
+                <strong>Email:</strong> support@trustsignal.com<br />
                 <strong>Phone:</strong> (555) 123-4567<br />
                 <strong>Address:</strong><br />
                 123 Security Blvd<br />

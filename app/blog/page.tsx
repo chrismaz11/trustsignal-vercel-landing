@@ -22,7 +22,7 @@ export default function BlogPage() {
                 <div className="p-6">
                      <p className="text-sm text-muted-foreground mb-2">September 14, 2025</p>
                     <h2 className="text-xl font-bold mb-2">Implementing Cryptographic Verification</h2>
-                    <p className="text-muted-foreground mb-4">A technical look at how Deed Shield ensures data integrity.</p>
+                    <p className="text-muted-foreground mb-4">A technical look at how Trust Signal ensures data integrity.</p>
                      <a href="#" className="text-primary hover:underline">Read Article &rarr;</a>
                 </div>
             </article>

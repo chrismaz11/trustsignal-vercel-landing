@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Deed Shield | Cryptographic Verification for Land Records',
+  title: 'Trust Signal | Cryptographic Verification for Land Records',
   description: 'The first pre-recording verification layer designed to secure land records. Bridge the ministerial gap without disrupting your eRecording workflow.',
   generator: 'v0.app',
   icons: {

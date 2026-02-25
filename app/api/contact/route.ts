@@ -32,7 +32,7 @@ export async function POST(request: Request) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        from: "Deed Shield <onboarding@resend.dev>",
+        from: "Trust Signal <onboarding@resend.dev>",
         to: [recipientEmail],
         subject: `New Contact Form Submission from ${name}`,
         html: `

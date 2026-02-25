@@ -37,7 +37,7 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-2">
               <Shield className="h-6 w-6 text-foreground" strokeWidth={1.5} />
               <span className="text-lg font-semibold tracking-tight text-foreground">
-                Deed Shield
+                Trust Signal
               </span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
@@ -71,11 +71,11 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} Deed Shield. All rights reserved.
+            &copy; {new Date().getFullYear()} Trust Signal. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link
-              href="https://twitter.com/deedshield"
+              href="https://twitter.com/trustsignal"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-muted-foreground transition-colors hover:text-foreground"
@@ -83,7 +83,7 @@ export function Footer() {
               Twitter
             </Link>
             <Link
-              href="https://linkedin.com/company/deedshield"
+              href="https://linkedin.com/company/trustsignal"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-muted-foreground transition-colors hover:text-foreground"

@@ -7,7 +7,7 @@ export default function CareersPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1 container mx-auto px-4 py-12 max-w-4xl">
-        <h1 className="text-4xl font-bold mb-8">Careers at Deed Shield</h1>
+        <h1 className="text-4xl font-bold mb-8">Careers at Trust Signal</h1>
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>
             Join us in our mission to secure the future of property ownership. We are always looking for talented individuals to join our growing team.
@@ -23,12 +23,12 @@ export default function CareersPage() {
             <div className="border p-4 rounded-lg">
               <h3 className="text-xl font-bold">Product Manager</h3>
               <p className="text-muted-foreground">Remote</p>
-              <p className="mt-2">Drive the product vision and roadmap for Deed Shield.</p>
+              <p className="mt-2">Drive the product vision and roadmap for Trust Signal.</p>
               <Button className="mt-4" variant="outline">Apply Now</Button>
             </div>
           </div>
           <p className="mt-8">
-            Don't see a role that fits? Email us at careers@deedshield.com.
+            Don't see a role that fits? Email us at careers@trustsignal.com.
           </p>
         </div>
       </main>

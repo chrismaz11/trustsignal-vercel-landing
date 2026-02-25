@@ -47,7 +47,7 @@ export function PilotProgramSection() {
             What the Pilot Is
           </h3>
           <p className="mt-4 text-muted-foreground leading-relaxed">
-            This is a paid, time-boxed, limited-scope evaluation of Deed Shield
+            This is a paid, time-boxed, limited-scope evaluation of Trust Signal
             in live title or recording workflows. The pilot assesses whether
             pre-recording integrity signals improve workflow visibility,
             strengthen audit documentation, and fit operationally—without

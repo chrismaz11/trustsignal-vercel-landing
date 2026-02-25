@@ -9,12 +9,12 @@ export default function DocumentationPage() {
         <h1 className="text-4xl font-bold mb-8">Documentation</h1>
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>
-            Welcome to the Deed Shield documentation. Here you will find comprehensive guides and resources to help you integrate and use our platform.
+            Welcome to the Trust Signal documentation. Here you will find comprehensive guides and resources to help you integrate and use our platform.
           </p>
           <div className="grid md:grid-cols-2 gap-6 mt-8">
             <div className="border p-6 rounded-lg">
               <h3 className="text-xl font-semibold mb-2">Getting Started</h3>
-              <p className="text-muted-foreground mb-4">Learn the basics of Deed Shield and how to set up your account.</p>
+              <p className="text-muted-foreground mb-4">Learn the basics of Trust Signal and how to set up your account.</p>
               <a href="#" className="text-primary hover:underline">Read more &rarr;</a>
             </div>
              <div className="border p-6 rounded-lg">

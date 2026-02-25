@@ -9,10 +9,10 @@ export default function ApiReferencePage() {
         <h1 className="text-4xl font-bold mb-8">API Reference</h1>
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>
-            Explore the Deed Shield API to build custom integrations and workflows.
+            Explore the Trust Signal API to build custom integrations and workflows.
           </p>
           <div className="bg-muted p-4 rounded-md font-mono text-sm mt-4">
-            GET https://api.deedshield.com/v1/verify
+            GET https://api.trustsignal.com/v1/verify
           </div>
           <p>
             <strong>Authentication:</strong> All API requests must be authenticated using a Bearer token.

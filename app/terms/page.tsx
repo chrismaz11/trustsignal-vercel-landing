@@ -10,7 +10,7 @@ export default function TermsPage() {
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>Last updated: {new Date().toLocaleDateString()}</p>
           <p>
-            Please read these Terms of Service carefully before using the Deed Shield platform operated by Deed Shield Inc.
+            Please read these Terms of Service carefully before using the Trust Signal platform operated by Trust Signal Inc.
           </p>
           <h2 className="text-2xl font-semibold mt-8">Acceptance of Terms</h2>
           <p>
@@ -18,11 +18,11 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-semibold mt-8">Use License</h2>
           <p>
-            Permission is granted to temporarily download one copy of the materials (information or software) on Deed Shield's website for personal, non-commercial transitory viewing only.
+            Permission is granted to temporarily download one copy of the materials (information or software) on Trust Signal's website for personal, non-commercial transitory viewing only.
           </p>
           <h2 className="text-2xl font-semibold mt-8">Disclaimer</h2>
           <p>
-            The materials on Deed Shield's website are provided on an 'as is' basis. Deed Shield makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+            The materials on Trust Signal's website are provided on an 'as is' basis. Trust Signal makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
           </p>
         </div>
       </main>

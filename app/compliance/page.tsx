@@ -9,7 +9,7 @@ export default function CompliancePage() {
         <h1 className="text-4xl font-bold mb-8">Compliance</h1>
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>
-            Deed Shield is committed to maintaining the highest standards of compliance with applicable laws and regulations regarding land records and data security.
+            Trust Signal is committed to maintaining the highest standards of compliance with applicable laws and regulations regarding land records and data security.
           </p>
           <h2 className="text-2xl font-semibold mt-8">Regulatory Adherence</h2>
           <p>

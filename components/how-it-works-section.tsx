@@ -6,7 +6,7 @@ const steps = [
     icon: FileText,
     title: "Document Fingerprinting",
     description:
-      "Title operations upload the closing deed. Deed Shield generates a cryptographic hash—a unique digital fingerprint—without storing document contents. Privacy is preserved.",
+      "Title operations upload the closing deed. Trust Signal generates a cryptographic hash—a unique digital fingerprint—without storing document contents. Privacy is preserved.",
   },
   {
     step: "02",
@@ -20,7 +20,7 @@ const steps = [
     icon: ShieldCheck,
     title: "Integrity Signal",
     description:
-      "Deed Shield cross-references notary credentials against state registries and validates operator attestations. The output is a PASS or FLAG signal—not a legal determination.",
+      "Trust Signal cross-references notary credentials against state registries and validates operator attestations. The output is a PASS or FLAG signal—not a legal determination.",
   },
   {
     step: "04",
@@ -43,7 +43,7 @@ export function HowItWorksSection() {
             Independent Verification Before Recording
           </h2>
           <p className="mt-4 text-lg text-muted-foreground text-pretty">
-            Deed Shield operates as a pre-recording checkpoint for title
+            Trust Signal operates as a pre-recording checkpoint for title
             operations. The system validates document integrity and generates an
             audit artifact before submission to the recorder—without altering
             workflows or storing documents.

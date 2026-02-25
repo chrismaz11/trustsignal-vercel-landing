@@ -6,10 +6,10 @@ export default function AboutPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1 container mx-auto px-4 py-12 max-w-4xl">
-        <h1 className="text-4xl font-bold mb-8">About Deed Shield</h1>
+        <h1 className="text-4xl font-bold mb-8">About Trust Signal</h1>
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>
-            Deed Shield is the first pre-recording verification layer designed to secure land records. We bridge the ministerial gap without disrupting your eRecording workflow.
+            Trust Signal is the first pre-recording verification layer designed to secure land records. We bridge the ministerial gap without disrupting your eRecording workflow.
           </p>
           <h2 className="text-2xl font-semibold mt-8">Our Mission</h2>
           <p>

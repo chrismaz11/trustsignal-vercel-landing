@@ -24,7 +24,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Shield className="h-7 w-7 text-foreground" strokeWidth={1.5} />
           <span className="text-lg font-semibold tracking-tight text-foreground">
-            Deed Shield
+            Trust Signal
           </span>
         </Link>
 

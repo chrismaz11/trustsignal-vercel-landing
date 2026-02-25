@@ -9,14 +9,14 @@ import {
 
 const faqs = [
   {
-    question: "Does Deed Shield replace notaries, title insurance, or recorders?",
+    question: "Does Trust Signal replace notaries, title insurance, or recorders?",
     answer:
-      "No. Deed Shield is a pre-recording verification checkpoint for title operations. Notaries perform standard duties, title insurance remains in place, and county recorders retain final recording authority. Deed Shield provides an independent integrity signal—not a replacement for existing processes.",
+      "No. Trust Signal is a pre-recording verification checkpoint for title operations. Notaries perform standard duties, title insurance remains in place, and county recorders retain final recording authority. Trust Signal provides an independent integrity signal—not a replacement for existing processes.",
   },
   {
     question: "What does a PASS or FLAG signal mean operationally?",
     answer:
-      "A PASS indicates document integrity and metadata consistency based on cryptographic validation and registry cross-checks. A FLAG alerts operations to a potential anomaly for internal review. Neither constitutes a legal determination—Deed Shield outputs an integrity signal, not a legal opinion.",
+      "A PASS indicates document integrity and metadata consistency based on cryptographic validation and registry cross-checks. A FLAG alerts operations to a potential anomaly for internal review. Neither constitutes a legal determination—Trust Signal outputs an integrity signal, not a legal opinion.",
   },
   {
     question: "What happens when a document is flagged?",
@@ -39,7 +39,7 @@ export function FAQSection() {
             Frequently Asked Questions
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Operational focus questions about Deed Shield implementation
+            Operational focus questions about Trust Signal implementation
           </p>
         </div>
 

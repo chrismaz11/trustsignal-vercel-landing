@@ -18,7 +18,7 @@ export function HeroSection() {
           </h1>
 
           <p className="mt-6 text-lg leading-relaxed text-muted-foreground text-pretty">
-            Deed Shield provides title companies and county recorders with an
+            Trust Signal provides title companies and county recorders with an
             independent integrity checkpoint before documents enter the public
             record. Reduce exposure to post-recording fraud, unwind costs, and
             liability—without replacing existing systems or workflows.

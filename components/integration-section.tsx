@@ -7,7 +7,7 @@ const features = [
   },
   {
     type: "positive",
-    text: "The Checkpoint: Before hitting \"Submit\" to the county, the file is hashed by Deed Shield.",
+    text: "The Checkpoint: Before hitting \"Submit\" to the county, the file is hashed by Trust Signal.",
   },
   {
     type: "positive",

@@ -10,7 +10,7 @@ export default function PrivacyPage() {
         <div className="prose dark:prose-invert max-w-none space-y-4">
           <p>Last updated: {new Date().toLocaleDateString()}</p>
           <p>
-            At Deed Shield, we take your privacy seriously. This Privacy Policy describes how we collect, use, and share your personal information when you visit our website or use our services.
+            At Trust Signal, we take your privacy seriously. This Privacy Policy describes how we collect, use, and share your personal information when you visit our website or use our services.
           </p>
           <h2 className="text-2xl font-semibold mt-8">Information We Collect</h2>
           <p>
@@ -22,7 +22,7 @@ export default function PrivacyPage() {
           </p>
           <h2 className="text-2xl font-semibold mt-8">Contact Us</h2>
           <p>
-            If you have any questions about this Privacy Policy, please contact us at privacy@deedshield.com.
+            If you have any questions about this Privacy Policy, please contact us at privacy@trustsignal.com.
           </p>
         </div>
       </main>
